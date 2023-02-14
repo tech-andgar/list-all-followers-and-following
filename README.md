@@ -591,7 +591,7 @@
   </tr>
 </table>
 
-## Following <kbd>378</kbd>
+## Following <kbd>379</kbd>
 
 <table>
   <tr>
@@ -3274,6 +3274,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/flutterdevrelgists">
+        <img src="https://avatars.githubusercontent.com/u/87679035?v=4" width="50" />
+        <br />
+        flutterdevrelgists
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/ashndev">
         <img src="https://avatars.githubusercontent.com/u/87834445?v=4" width="50" />
         <br />
@@ -3287,6 +3294,7 @@
         AlejandroHomez
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Michprosal003">
         <img src="https://avatars.githubusercontent.com/u/95501615?v=4" width="50" />
@@ -3294,7 +3302,6 @@
         Michprosal003
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/avalanche-tm">
         <img src="https://avatars.githubusercontent.com/u/97057865?v=4" width="50" />
@@ -3315,8 +3322,6 @@
         <br />
         elysiajs
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

@@ -591,7 +591,7 @@
   </tr>
 </table>
 
-## Following <kbd>383</kbd>
+## Following <kbd>384</kbd>
 
 <table>
   <tr>
@@ -3274,6 +3274,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/FlutterMedellinMeetup">
+        <img src="https://avatars.githubusercontent.com/u/80115463?v=4" width="50" />
+        <br />
+        FlutterMedellinMeetup
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/Flutter-Explained">
         <img src="https://avatars.githubusercontent.com/u/80818419?v=4" width="50" />
         <br />
@@ -3287,6 +3294,7 @@
         chouhan-rahul
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rebelappstudio">
         <img src="https://avatars.githubusercontent.com/u/82413755?v=4" width="50" />
@@ -3294,7 +3302,6 @@
         rebelappstudio
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/total-order">
         <img src="https://avatars.githubusercontent.com/u/83286322?v=4" width="50" />
@@ -3323,6 +3330,7 @@
         AlejandroHomez
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Michprosal003">
         <img src="https://avatars.githubusercontent.com/u/95501615?v=4" width="50" />
@@ -3330,7 +3338,6 @@
         Michprosal003
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/avalanche-tm">
         <img src="https://avatars.githubusercontent.com/u/97057865?v=4" width="50" />
@@ -3351,8 +3358,6 @@
         <br />
         elysiajs
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

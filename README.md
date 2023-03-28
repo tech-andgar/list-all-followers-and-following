@@ -596,7 +596,7 @@
   </tr>
 </table>
 
-## Following <kbd>389</kbd>
+## Following <kbd>390</kbd>
 
 <table>
   <tr>
@@ -3315,6 +3315,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Robert-Brunhage-Organization">
+        <img src="https://avatars.githubusercontent.com/u/79358883?v=4" width="50" />
+        <br />
+        Robert-Brunhage-Organization
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/FlutterMedellinMeetup">
         <img src="https://avatars.githubusercontent.com/u/80115463?v=4" width="50" />
         <br />
@@ -3328,6 +3335,7 @@
         Flutter-Explained
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chouhan-rahul">
         <img src="https://avatars.githubusercontent.com/u/82075108?v=4" width="50" />
@@ -3335,7 +3343,6 @@
         chouhan-rahul
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rebelappstudio">
         <img src="https://avatars.githubusercontent.com/u/82413755?v=4" width="50" />
@@ -3364,6 +3371,7 @@
         ashndev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AlejandroHomez">
         <img src="https://avatars.githubusercontent.com/u/87942285?v=4" width="50" />
@@ -3371,7 +3379,6 @@
         AlejandroHomez
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Michprosal003">
         <img src="https://avatars.githubusercontent.com/u/95501615?v=4" width="50" />
@@ -3399,8 +3406,6 @@
         <br />
         elysiajs
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>

@@ -12,7 +12,7 @@
 
 | Name | Bio | Blog | Location | Company |
 | -- | -- | -- | -- | -- |
-| Andres Garcia | Flutter Developer FullStack | [https://tech-andgar.me](https://https://tech-andgar.me) | Colombia | - |
+| Andres Garcia | Flutter FullStack Developer | [https://tech-andgar.me](https://https://tech-andgar.me) | Colombia | - |
 
 ## Followers <kbd>80</kbd>
 

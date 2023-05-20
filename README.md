@@ -591,7 +591,7 @@
   </tr>
 </table>
 
-## Following <kbd>395</kbd>
+## Following <kbd>396</kbd>
 
 <table>
   <tr>
@@ -3411,6 +3411,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/CodePush-dev">
+        <img src="https://avatars.githubusercontent.com/u/90159083?v=4" width="50" />
+        <br />
+        CodePush-dev
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/Michprosal003">
         <img src="https://avatars.githubusercontent.com/u/95501615?v=4" width="50" />
         <br />
@@ -3431,12 +3438,21 @@
         flet-dev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/elysiajs">
         <img src="https://avatars.githubusercontent.com/u/119793569?v=4" width="50" />
         <br />
         elysiajs
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>

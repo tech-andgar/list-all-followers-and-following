@@ -591,7 +591,7 @@
   </tr>
 </table>
 
-## Following <kbd>403</kbd>
+## Following <kbd>404</kbd>
 
 <table>
   <tr>
@@ -2957,12 +2957,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/bryanjorgeflores">
+        <img src="https://avatars.githubusercontent.com/u/43453756?v=4" width="50" />
+        <br />
+        bryanjorgeflores
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/JohannesMilke">
         <img src="https://avatars.githubusercontent.com/u/44921899?v=4" width="50" />
         <br />
         JohannesMilke
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/divriots">
         <img src="https://avatars.githubusercontent.com/u/45049140?v=4" width="50" />
@@ -2970,7 +2978,6 @@
         divriots
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/williamscafdev">
         <img src="https://avatars.githubusercontent.com/u/45320786?v=4" width="50" />
@@ -2999,6 +3006,7 @@
         funwithflutter
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/retroportalstudio">
         <img src="https://avatars.githubusercontent.com/u/45650941?v=4" width="50" />
@@ -3006,7 +3014,6 @@
         retroportalstudio
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/arthurgiani">
         <img src="https://avatars.githubusercontent.com/u/45671820?v=4" width="50" />
@@ -3035,6 +3042,7 @@
         darioragusa
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yeasin50">
         <img src="https://avatars.githubusercontent.com/u/46500228?v=4" width="50" />
@@ -3042,7 +3050,6 @@
         yeasin50
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/getappmap">
         <img src="https://avatars.githubusercontent.com/u/46610017?v=4" width="50" />
@@ -3071,6 +3078,7 @@
         williamsilva-98
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/cerberodev">
         <img src="https://avatars.githubusercontent.com/u/47544543?v=4" width="50" />
@@ -3078,7 +3086,6 @@
         cerberodev
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/shivaniaakanksha">
         <img src="https://avatars.githubusercontent.com/u/47736716?v=4" width="50" />
@@ -3107,6 +3114,7 @@
         Flutterando
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/SergioCamachoInnLab">
         <img src="https://avatars.githubusercontent.com/u/48520086?v=4" width="50" />
@@ -3114,7 +3122,6 @@
         SergioCamachoInnLab
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/TahaTesser">
         <img src="https://avatars.githubusercontent.com/u/48603081?v=4" width="50" />
@@ -3143,6 +3150,7 @@
         JordyHers
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bancolombia">
         <img src="https://avatars.githubusercontent.com/u/50145278?v=4" width="50" />
@@ -3150,7 +3158,6 @@
         bancolombia
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/champ96k">
         <img src="https://avatars.githubusercontent.com/u/50237575?v=4" width="50" />
@@ -3179,6 +3186,7 @@
         AbhishekDoshi26
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/la-haus">
         <img src="https://avatars.githubusercontent.com/u/53319354?v=4" width="50" />
@@ -3186,7 +3194,6 @@
         la-haus
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/antoniosarosi">
         <img src="https://avatars.githubusercontent.com/u/54243067?v=4" width="50" />
@@ -3215,6 +3222,7 @@
         eliecergarcia
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Jerome-Saltmarsh">
         <img src="https://avatars.githubusercontent.com/u/56405989?v=4" width="50" />
@@ -3222,7 +3230,6 @@
         Jerome-Saltmarsh
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/brocodev">
         <img src="https://avatars.githubusercontent.com/u/56772655?v=4" width="50" />
@@ -3251,6 +3258,7 @@
         flyerhq
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/cnon06">
         <img src="https://avatars.githubusercontent.com/u/59291488?v=4" width="50" />
@@ -3258,7 +3266,6 @@
         cnon06
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/tadaspetra">
         <img src="https://avatars.githubusercontent.com/u/60107328?v=4" width="50" />
@@ -3287,6 +3294,7 @@
         DavidIjaji
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/wilsonowilson">
         <img src="https://avatars.githubusercontent.com/u/63465656?v=4" width="50" />
@@ -3294,7 +3302,6 @@
         wilsonowilson
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/devopsean">
         <img src="https://avatars.githubusercontent.com/u/63696295?v=4" width="50" />
@@ -3323,6 +3330,7 @@
         Pierre-Monier
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/syedahmedusman2">
         <img src="https://avatars.githubusercontent.com/u/66121118?v=4" width="50" />
@@ -3330,7 +3338,6 @@
         syedahmedusman2
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/proteanstudio">
         <img src="https://avatars.githubusercontent.com/u/67486314?v=4" width="50" />
@@ -3359,6 +3366,7 @@
         z0ccc
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/peter-kimanzi">
         <img src="https://avatars.githubusercontent.com/u/71552773?v=4" width="50" />
@@ -3366,7 +3374,6 @@
         peter-kimanzi
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/VeryGoodOpenSource">
         <img src="https://avatars.githubusercontent.com/u/74265434?v=4" width="50" />
@@ -3395,6 +3402,7 @@
         nategentile
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Robert-Brunhage-Organization">
         <img src="https://avatars.githubusercontent.com/u/79358883?v=4" width="50" />
@@ -3402,7 +3410,6 @@
         Robert-Brunhage-Organization
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/FlutterMedellinMeetup">
         <img src="https://avatars.githubusercontent.com/u/80115463?v=4" width="50" />
@@ -3431,6 +3438,7 @@
         rebelappstudio
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/total-order">
         <img src="https://avatars.githubusercontent.com/u/83286322?v=4" width="50" />
@@ -3438,7 +3446,6 @@
         total-order
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/flutterdevrelgists">
         <img src="https://avatars.githubusercontent.com/u/87679035?v=4" width="50" />
@@ -3467,6 +3474,7 @@
         CodePush-dev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Michprosal003">
         <img src="https://avatars.githubusercontent.com/u/95501615?v=4" width="50" />
@@ -3474,7 +3482,6 @@
         Michprosal003
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/avalanche-tm">
         <img src="https://avatars.githubusercontent.com/u/97057865?v=4" width="50" />
@@ -3495,8 +3502,6 @@
         <br />
         elysiajs
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

@@ -40,12 +40,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/cann072000">
+        <img src="https://avatars.githubusercontent.com/u/121313705?v=4" width="50" />
+        <br />
+        cann072000
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/T-stoilov">
         <img src="https://avatars.githubusercontent.com/u/103141624?v=4" width="50" />
         <br />
         T-stoilov
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dybbuk-dev">
         <img src="https://avatars.githubusercontent.com/u/100238707?v=4" width="50" />
@@ -53,7 +61,6 @@
         dybbuk-dev
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Gisselle2891">
         <img src="https://avatars.githubusercontent.com/u/99360363?v=4" width="50" />
@@ -73,13 +80,6 @@
         <img src="https://avatars.githubusercontent.com/u/95981117?v=4" width="50" />
         <br />
         AbdulrhmanSayedAli
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/dexjr">
-        <img src="https://avatars.githubusercontent.com/u/95083469?v=4" width="50" />
-        <br />
-        dexjr
       </a>
     </td>
     <td width="150" align="center">

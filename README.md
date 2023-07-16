@@ -19,13 +19,6 @@
 <table>
   <tr>
     <td width="150" align="center">
-      <a href="https://github.com/Ayaan-Sharif">
-        <img src="https://avatars.githubusercontent.com/u/138837904?v=4" width="50" />
-        <br />
-        Ayaan-Sharif
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/joshnallyssia">
         <img src="https://avatars.githubusercontent.com/u/135643569?v=4" width="50" />
         <br />
@@ -53,7 +46,6 @@
         T-stoilov
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dybbuk-dev">
         <img src="https://avatars.githubusercontent.com/u/100238707?v=4" width="50" />
@@ -61,6 +53,7 @@
         dybbuk-dev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Gisselle2891">
         <img src="https://avatars.githubusercontent.com/u/99360363?v=4" width="50" />
@@ -80,6 +73,13 @@
         <img src="https://avatars.githubusercontent.com/u/95981117?v=4" width="50" />
         <br />
         AbdulrhmanSayedAli
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/dexjr">
+        <img src="https://avatars.githubusercontent.com/u/95083469?v=4" width="50" />
+        <br />
+        dexjr
       </a>
     </td>
     <td width="150" align="center">

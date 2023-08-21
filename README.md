@@ -622,7 +622,7 @@
   </tr>
 </table>
 
-## Following <kbd>421</kbd>
+## Following <kbd>422</kbd>
 
 <table>
   <tr>
@@ -3420,12 +3420,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/KianBrose">
+        <img src="https://avatars.githubusercontent.com/u/62078964?v=4" width="50" />
+        <br />
+        KianBrose
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/flutternoob">
         <img src="https://avatars.githubusercontent.com/u/62204476?v=4" width="50" />
         <br />
         flutternoob
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/DavidIjaji">
         <img src="https://avatars.githubusercontent.com/u/63214545?v=4" width="50" />
@@ -3433,7 +3441,6 @@
         DavidIjaji
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/wilsonowilson">
         <img src="https://avatars.githubusercontent.com/u/63465656?v=4" width="50" />
@@ -3462,6 +3469,7 @@
         Tomic-Riedel
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Pierre-Monier">
         <img src="https://avatars.githubusercontent.com/u/65488471?v=4" width="50" />
@@ -3469,7 +3477,6 @@
         Pierre-Monier
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/syedahmedusman2">
         <img src="https://avatars.githubusercontent.com/u/66121118?v=4" width="50" />
@@ -3498,6 +3505,7 @@
         eydrent
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Justin-roy">
         <img src="https://avatars.githubusercontent.com/u/69432186?v=4" width="50" />
@@ -3505,7 +3513,6 @@
         Justin-roy
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/z0ccc">
         <img src="https://avatars.githubusercontent.com/u/70310180?v=4" width="50" />
@@ -3534,6 +3541,7 @@
         harmonoid
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/carolinaportillo">
         <img src="https://avatars.githubusercontent.com/u/75656439?v=4" width="50" />
@@ -3541,7 +3549,6 @@
         carolinaportillo
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nategentile">
         <img src="https://avatars.githubusercontent.com/u/77337765?v=4" width="50" />
@@ -3570,6 +3577,7 @@
         Flutter-Explained
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chouhan-rahul">
         <img src="https://avatars.githubusercontent.com/u/82075108?v=4" width="50" />
@@ -3577,7 +3585,6 @@
         chouhan-rahul
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rebelappstudio">
         <img src="https://avatars.githubusercontent.com/u/82413755?v=4" width="50" />
@@ -3606,6 +3613,7 @@
         ashndev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AlejandroHomez">
         <img src="https://avatars.githubusercontent.com/u/87942285?v=4" width="50" />
@@ -3613,7 +3621,6 @@
         AlejandroHomez
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CodePush-dev">
         <img src="https://avatars.githubusercontent.com/u/90159083?v=4" width="50" />
@@ -3642,6 +3649,7 @@
         watermelontools
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/flet-dev">
         <img src="https://avatars.githubusercontent.com/u/102273996?v=4" width="50" />
@@ -3649,15 +3657,12 @@
         flet-dev
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/elysiajs">
         <img src="https://avatars.githubusercontent.com/u/119793569?v=4" width="50" />
         <br />
         elysiajs
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

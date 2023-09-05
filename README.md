@@ -3276,10 +3276,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/patternina">
+      <a href="https://github.com/0xMau">
         <img src="https://avatars.githubusercontent.com/u/49292621?v=4" width="50" />
         <br />
-        patternina
+        0xMau
       </a>
     </td>
     <td width="150" align="center">

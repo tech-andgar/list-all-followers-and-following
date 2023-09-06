@@ -3276,10 +3276,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/0xMau">
+      <a href="https://github.com/wauriciop">
         <img src="https://avatars.githubusercontent.com/u/49292621?v=4" width="50" />
         <br />
-        0xMau
+        wauriciop
       </a>
     </td>
     <td width="150" align="center">

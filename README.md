@@ -3276,10 +3276,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/wauriciop">
+      <a href="https://github.com/silentnil">
         <img src="https://avatars.githubusercontent.com/u/49292621?v=4" width="50" />
         <br />
-        wauriciop
+        silentnil
       </a>
     </td>
     <td width="150" align="center">

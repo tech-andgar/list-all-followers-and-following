@@ -3271,10 +3271,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/silentnil">
+      <a href="https://github.com/NSMau">
         <img src="https://avatars.githubusercontent.com/u/49292621?v=4" width="50" />
         <br />
-        silentnil
+        NSMau
       </a>
     </td>
     <td width="150" align="center">

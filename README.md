@@ -617,7 +617,7 @@
   </tr>
 </table>
 
-## Following <kbd>424</kbd>
+## Following <kbd>425</kbd>
 
 <table>
   <tr>
@@ -3667,13 +3667,18 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/upscayl">
+        <img src="https://avatars.githubusercontent.com/u/112148288?v=4" width="50" />
+        <br />
+        upscayl
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/elysiajs">
         <img src="https://avatars.githubusercontent.com/u/119793569?v=4" width="50" />
         <br />
         elysiajs
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>

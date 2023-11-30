@@ -3334,10 +3334,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/NSMau">
+      <a href="https://github.com/atreidev">
         <img src="https://avatars.githubusercontent.com/u/49292621?v=4" width="50" />
         <br />
-        NSMau
+        atreidev
       </a>
     </td>
     <td width="150" align="center">

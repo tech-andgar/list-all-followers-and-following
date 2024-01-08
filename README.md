@@ -2991,10 +2991,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Yogi-6">
+      <a href="https://github.com/Yogi-7y">
         <img src="https://avatars.githubusercontent.com/u/38221386?v=4" width="50" />
         <br />
-        Yogi-6
+        Yogi-7y
       </a>
     </td>
     <td width="150" align="center">

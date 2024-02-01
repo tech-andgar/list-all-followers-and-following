@@ -668,7 +668,7 @@
   </tr>
 </table>
 
-## Following <kbd>440</kbd>
+## Following <kbd>441</kbd>
 
 <table>
   <tr>
@@ -3838,6 +3838,22 @@
         <br />
         version-fox
       </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/the-d-velopers">
+        <img src="https://avatars.githubusercontent.com/u/155604362?v=4" width="50" />
+        <br />
+        the-d-velopers
+      </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>

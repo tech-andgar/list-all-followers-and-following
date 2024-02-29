@@ -684,7 +684,7 @@
   </tr>
 </table>
 
-## Following <kbd>453</kbd>
+## Following <kbd>454</kbd>
 
 <table>
   <tr>
@@ -3893,6 +3893,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/Securrency-OSS">
+        <img src="https://avatars.githubusercontent.com/u/107051790?v=4" width="50" />
+        <br />
+        Securrency-OSS
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/Deafveloper">
         <img src="https://avatars.githubusercontent.com/u/108372508?v=4" width="50" />
         <br />
@@ -3920,6 +3927,7 @@
         elysiajs
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/celenaaponce">
         <img src="https://avatars.githubusercontent.com/u/138083273?v=4" width="50" />
@@ -3927,7 +3935,6 @@
         celenaaponce
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Front-Tips">
         <img src="https://avatars.githubusercontent.com/u/152976327?v=4" width="50" />
@@ -3948,8 +3955,6 @@
         <br />
         the-d-velopers
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

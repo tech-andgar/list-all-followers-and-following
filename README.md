@@ -184,10 +184,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/web3dev514">
+      <a href="https://github.com/deepsea514">
         <img src="https://avatars.githubusercontent.com/u/74522790?v=4" width="50" />
         <br />
-        web3dev514
+        deepsea514
       </a>
     </td>
     <td width="150" align="center">
@@ -694,7 +694,7 @@
   </tr>
 </table>
 
-## Following <kbd>456</kbd>
+## Following <kbd>457</kbd>
 
 <table>
   <tr>
@@ -3881,6 +3881,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/jonynavarro">
+        <img src="https://avatars.githubusercontent.com/u/92949337?v=4" width="50" />
+        <br />
+        jonynavarro
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/Michprosal003">
         <img src="https://avatars.githubusercontent.com/u/95501615?v=4" width="50" />
         <br />
@@ -3894,6 +3901,7 @@
         avalanche-tm
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JuanFGQ">
         <img src="https://avatars.githubusercontent.com/u/97085649?v=4" width="50" />
@@ -3901,7 +3909,6 @@
         JuanFGQ
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/watermelontools">
         <img src="https://avatars.githubusercontent.com/u/98496666?v=4" width="50" />
@@ -3930,6 +3937,7 @@
         Deafveloper
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/upscayl">
         <img src="https://avatars.githubusercontent.com/u/112148288?v=4" width="50" />
@@ -3937,7 +3945,6 @@
         upscayl
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Antoinegtir">
         <img src="https://avatars.githubusercontent.com/u/114834504?v=4" width="50" />
@@ -3966,6 +3973,7 @@
         Front-Tips
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/version-fox">
         <img src="https://avatars.githubusercontent.com/u/154070718?v=4" width="50" />
@@ -3973,15 +3981,12 @@
         version-fox
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/the-d-velopers">
         <img src="https://avatars.githubusercontent.com/u/155604362?v=4" width="50" />
         <br />
         the-d-velopers
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

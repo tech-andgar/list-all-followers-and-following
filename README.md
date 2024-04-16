@@ -271,10 +271,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/SoftwareEngineer0">
+      <a href="https://github.com/3D-Dev">
         <img src="https://avatars.githubusercontent.com/u/57867146?v=4" width="50" />
         <br />
-        SoftwareEngineer0
+        3D-Dev
       </a>
     </td>
     <td width="150" align="center">

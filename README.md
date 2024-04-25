@@ -6,7 +6,7 @@
 - [How to use in my own project?](https://github.com/xrkffgg/list-all-followers-and-following/issues/1)
 - If you have any questions, please open a new [issue](https://github.com/xrkffgg/list-all-followers-and-following/issues)
 
-## andgar2010
+## tech-andgar
 
 <img src="https://avatars.githubusercontent.com/u/19521054?v=4" width="120" />
 

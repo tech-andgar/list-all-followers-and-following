@@ -699,7 +699,7 @@
   </tr>
 </table>
 
-## Following <kbd>467</kbd>
+## Following <kbd>468</kbd>
 
 <table>
   <tr>
@@ -4023,6 +4023,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/sergioIbz">
+        <img src="https://avatars.githubusercontent.com/u/118765256?v=4" width="50" />
+        <br />
+        sergioIbz
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/elysiajs">
         <img src="https://avatars.githubusercontent.com/u/119793569?v=4" width="50" />
         <br />
@@ -4043,6 +4050,7 @@
         Dreb97
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Front-Tips">
         <img src="https://avatars.githubusercontent.com/u/152976327?v=4" width="50" />
@@ -4050,7 +4058,6 @@
         Front-Tips
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/version-fox">
         <img src="https://avatars.githubusercontent.com/u/154070718?v=4" width="50" />
@@ -4064,8 +4071,6 @@
         <br />
         the-d-velopers
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

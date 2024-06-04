@@ -720,7 +720,7 @@
   </tr>
 </table>
 
-## Following <kbd>478</kbd>
+## Following <kbd>479</kbd>
 
 <table>
   <tr>
@@ -4145,6 +4145,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/lucadevv">
+        <img src="https://avatars.githubusercontent.com/u/146896025?v=4" width="50" />
+        <br />
+        lucadevv
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/Front-Tips">
         <img src="https://avatars.githubusercontent.com/u/152976327?v=4" width="50" />
         <br />
@@ -4164,8 +4171,6 @@
         <br />
         the-d-velopers
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

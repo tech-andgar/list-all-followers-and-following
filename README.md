@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Andres Garcia | Flutter FullStack Developer | [https://tech-andgar.me](https://https://tech-andgar.me) | Colombia | - |
 
-## Followers <kbd>101</kbd>
+## Followers <kbd>100</kbd>
 
 <table>
   <tr>
@@ -695,20 +695,13 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/vintagewang">
-        <img src="https://avatars.githubusercontent.com/u/1527648?v=4" width="50" />
-        <br />
-        vintagewang
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
       <a href="https://github.com/pH-7">
         <img src="https://avatars.githubusercontent.com/u/1325411?v=4" width="50" />
         <br />
         pH-7
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mhrst">
         <img src="https://avatars.githubusercontent.com/u/1178412?v=4" width="50" />
@@ -737,7 +730,6 @@
         singerdmx
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/javiereguiluz">
         <img src="https://avatars.githubusercontent.com/u/73419?v=4" width="50" />
@@ -745,18 +737,10 @@
         javiereguiluz
       </a>
     </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
   </tr>
 </table>
 
-## Following <kbd>491</kbd>
+## Following <kbd>492</kbd>
 
 <table>
   <tr>
@@ -3734,12 +3718,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/cscoderr">
+        <img src="https://avatars.githubusercontent.com/u/51103897?v=4" width="50" />
+        <br />
+        cscoderr
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/alexrintt">
         <img src="https://avatars.githubusercontent.com/u/51419598?v=4" width="50" />
         <br />
         alexrintt
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/atsign-foundation">
         <img src="https://avatars.githubusercontent.com/u/51759304?v=4" width="50" />
@@ -3747,7 +3739,6 @@
         atsign-foundation
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AbhishekDoshi26">
         <img src="https://avatars.githubusercontent.com/u/52591247?v=4" width="50" />
@@ -3776,6 +3767,7 @@
         mateussiqueira
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/elianortega">
         <img src="https://avatars.githubusercontent.com/u/54898038?v=4" width="50" />
@@ -3783,7 +3775,6 @@
         elianortega
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/eliecergarcia">
         <img src="https://avatars.githubusercontent.com/u/55288682?v=4" width="50" />
@@ -3812,6 +3803,7 @@
         lakshydeep-14
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/adrianflutur">
         <img src="https://avatars.githubusercontent.com/u/58974561?v=4" width="50" />
@@ -3819,7 +3811,6 @@
         adrianflutur
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/flyerhq">
         <img src="https://avatars.githubusercontent.com/u/59206044?v=4" width="50" />
@@ -3848,6 +3839,7 @@
         coollabsio
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/shadesofdeath">
         <img src="https://avatars.githubusercontent.com/u/61064047?v=4" width="50" />
@@ -3855,7 +3847,6 @@
         shadesofdeath
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CharlesCreativeContent">
         <img src="https://avatars.githubusercontent.com/u/62077627?v=4" width="50" />
@@ -3884,6 +3875,7 @@
         hawkkiller
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/DavidIjaji">
         <img src="https://avatars.githubusercontent.com/u/63214545?v=4" width="50" />
@@ -3891,7 +3883,6 @@
         DavidIjaji
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/wilsonowilson">
         <img src="https://avatars.githubusercontent.com/u/63465656?v=4" width="50" />
@@ -3920,6 +3911,7 @@
         Tomic-Riedel
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/tusharhow">
         <img src="https://avatars.githubusercontent.com/u/65107679?v=4" width="50" />
@@ -3927,7 +3919,6 @@
         tusharhow
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Pierre-Monier">
         <img src="https://avatars.githubusercontent.com/u/65488471?v=4" width="50" />
@@ -3956,6 +3947,7 @@
         leanflutter
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/withfig">
         <img src="https://avatars.githubusercontent.com/u/68212401?v=4" width="50" />
@@ -3963,7 +3955,6 @@
         withfig
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Vikkycode">
         <img src="https://avatars.githubusercontent.com/u/68545949?v=4" width="50" />
@@ -3992,6 +3983,7 @@
         Justin-roy
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/z0ccc">
         <img src="https://avatars.githubusercontent.com/u/70310180?v=4" width="50" />
@@ -3999,7 +3991,6 @@
         z0ccc
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Flutter-Bounty-Hunters">
         <img src="https://avatars.githubusercontent.com/u/70979896?v=4" width="50" />
@@ -4028,6 +4019,7 @@
         harmonoid
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/carolinaportillo">
         <img src="https://avatars.githubusercontent.com/u/75656439?v=4" width="50" />
@@ -4035,7 +4027,6 @@
         carolinaportillo
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/IvanGael">
         <img src="https://avatars.githubusercontent.com/u/75835662?v=4" width="50" />
@@ -4064,6 +4055,7 @@
         FlutterMedellinMeetup
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Flutter-Explained">
         <img src="https://avatars.githubusercontent.com/u/80818419?v=4" width="50" />
@@ -4071,7 +4063,6 @@
         Flutter-Explained
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chouhan-rahul">
         <img src="https://avatars.githubusercontent.com/u/82075108?v=4" width="50" />
@@ -4100,6 +4091,7 @@
         slashapi
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bidhan11">
         <img src="https://avatars.githubusercontent.com/u/86898646?v=4" width="50" />
@@ -4107,7 +4099,6 @@
         bidhan11
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/flutterdevrelgists">
         <img src="https://avatars.githubusercontent.com/u/87679035?v=4" width="50" />
@@ -4136,6 +4127,7 @@
         CodePush-dev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AmirBayat0">
         <img src="https://avatars.githubusercontent.com/u/91388754?v=4" width="50" />
@@ -4143,7 +4135,6 @@
         AmirBayat0
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jonynavarro">
         <img src="https://avatars.githubusercontent.com/u/92949337?v=4" width="50" />
@@ -4172,6 +4163,7 @@
         JuanFGQ
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/watermelontools">
         <img src="https://avatars.githubusercontent.com/u/98496666?v=4" width="50" />
@@ -4179,7 +4171,6 @@
         watermelontools
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/flet-dev">
         <img src="https://avatars.githubusercontent.com/u/102273996?v=4" width="50" />
@@ -4208,6 +4199,7 @@
         upscayl
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Antoinegtir">
         <img src="https://avatars.githubusercontent.com/u/114834504?v=4" width="50" />
@@ -4215,7 +4207,6 @@
         Antoinegtir
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/arguellesdev">
         <img src="https://avatars.githubusercontent.com/u/114838154?v=4" width="50" />
@@ -4244,6 +4235,7 @@
         charlescyt
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/celenaaponce">
         <img src="https://avatars.githubusercontent.com/u/138083273?v=4" width="50" />
@@ -4251,7 +4243,6 @@
         celenaaponce
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Dreb97">
         <img src="https://avatars.githubusercontent.com/u/142052217?v=4" width="50" />
@@ -4280,6 +4271,7 @@
         Front-Tips
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/version-fox">
         <img src="https://avatars.githubusercontent.com/u/154070718?v=4" width="50" />
@@ -4287,15 +4279,12 @@
         version-fox
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/the-d-velopers">
         <img src="https://avatars.githubusercontent.com/u/155604362?v=4" width="50" />
         <br />
         the-d-velopers
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

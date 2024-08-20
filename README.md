@@ -465,10 +465,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/eust-w">
-        <img src="https://avatars.githubusercontent.com/u/39115651?v=4" width="50" />
+      <a href="https://github.com/Connor9994">
+        <img src="https://avatars.githubusercontent.com/u/39637206?v=4" width="50" />
         <br />
-        eust-w
+        Connor9994
       </a>
     </td>
     <td width="150" align="center">

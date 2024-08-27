@@ -776,7 +776,7 @@
   </tr>
 </table>
 
-## Following <kbd>502</kbd>
+## Following <kbd>503</kbd>
 
 <table>
   <tr>
@@ -4345,6 +4345,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/cherologist">
+        <img src="https://avatars.githubusercontent.com/u/127917697?v=4" width="50" />
+        <br />
+        cherologist
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/celenaaponce">
         <img src="https://avatars.githubusercontent.com/u/138083273?v=4" width="50" />
         <br />
@@ -4372,6 +4379,7 @@
         Ahmad-Nour-Haidar
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Front-Tips">
         <img src="https://avatars.githubusercontent.com/u/152976327?v=4" width="50" />
@@ -4379,7 +4387,6 @@
         Front-Tips
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/version-fox">
         <img src="https://avatars.githubusercontent.com/u/154070718?v=4" width="50" />
@@ -4393,8 +4400,6 @@
         <br />
         the-d-velopers
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

@@ -792,7 +792,7 @@
   </tr>
 </table>
 
-## Following <kbd>512</kbd>
+## Following <kbd>513</kbd>
 
 <table>
   <tr>
@@ -4425,13 +4425,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Michaelabx01">
+        <img src="https://avatars.githubusercontent.com/u/137433436?v=4" width="50" />
+        <br />
+        Michaelabx01
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/celenaaponce">
         <img src="https://avatars.githubusercontent.com/u/138083273?v=4" width="50" />
         <br />
         celenaaponce
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Dreb97">
         <img src="https://avatars.githubusercontent.com/u/142052217?v=4" width="50" />
@@ -4460,6 +4467,7 @@
         Front-Tips
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/version-fox">
         <img src="https://avatars.githubusercontent.com/u/154070718?v=4" width="50" />
@@ -4467,7 +4475,6 @@
         version-fox
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/the-d-velopers">
         <img src="https://avatars.githubusercontent.com/u/155604362?v=4" width="50" />
@@ -4481,8 +4488,6 @@
         <br />
         JonPWA
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

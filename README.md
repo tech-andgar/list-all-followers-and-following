@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Andres Garcia | Flutter FullStack Developer | [https://tech-andgar.me](https://https://tech-andgar.me) | Colombia | - |
 
-## Followers <kbd>110</kbd>
+## Followers <kbd>111</kbd>
 
 <table>
   <tr>
@@ -767,13 +767,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/trinhminhtriet">
+        <img src="https://avatars.githubusercontent.com/u/1650997?v=4" width="50" />
+        <br />
+        trinhminhtriet
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/pH-7">
         <img src="https://avatars.githubusercontent.com/u/1325411?v=4" width="50" />
         <br />
         pH-7
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mhrst">
         <img src="https://avatars.githubusercontent.com/u/1178412?v=4" width="50" />
@@ -802,12 +809,21 @@
         singerdmx
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/javiereguiluz">
         <img src="https://avatars.githubusercontent.com/u/73419?v=4" width="50" />
         <br />
         javiereguiluz
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
@@ -3437,10 +3453,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/DannyTheSloth">
+      <a href="https://github.com/dhuinda">
         <img src="https://avatars.githubusercontent.com/u/39781618?v=4" width="50" />
         <br />
-        DannyTheSloth
+        dhuinda
       </a>
     </td>
   </tr><tr>

@@ -4294,10 +4294,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/IvanGael">
+      <a href="https://github.com/iv4n-ga6l">
         <img src="https://avatars.githubusercontent.com/u/75835662?v=4" width="50" />
         <br />
-        IvanGael
+        iv4n-ga6l
       </a>
     </td>
     <td width="150" align="center">

@@ -422,10 +422,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Yesid4Code">
+      <a href="https://github.com/YesidCodes">
         <img src="https://avatars.githubusercontent.com/u/54006744?v=4" width="50" />
         <br />
-        Yesid4Code
+        YesidCodes
       </a>
     </td>
     <td width="150" align="center">

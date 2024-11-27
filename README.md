@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Andres Garcia | Flutter FullStack Developer | [https://tech-andgar.me](https://https://tech-andgar.me) | Colombia | - |
 
-## Followers <kbd>118</kbd>
+## Followers <kbd>119</kbd>
 
 <table>
   <tr>
@@ -796,12 +796,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Edward-Roshan">
+        <img src="https://avatars.githubusercontent.com/u/5707250?v=4" width="50" />
+        <br />
+        Edward-Roshan
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/DanielCardonaRojas">
         <img src="https://avatars.githubusercontent.com/u/5472687?v=4" width="50" />
         <br />
         DanielCardonaRojas
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/VinceFINET">
         <img src="https://avatars.githubusercontent.com/u/3799275?v=4" width="50" />
@@ -809,7 +817,6 @@
         VinceFINET
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/18chetanpatel">
         <img src="https://avatars.githubusercontent.com/u/3336390?v=4" width="50" />
@@ -838,6 +845,7 @@
         mhrst
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/josemalcher">
         <img src="https://avatars.githubusercontent.com/u/914913?v=4" width="50" />
@@ -845,7 +853,6 @@
         josemalcher
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vminhtri">
         <img src="https://avatars.githubusercontent.com/u/706206?v=4" width="50" />
@@ -866,8 +873,6 @@
         <br />
         javiereguiluz
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

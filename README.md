@@ -33,13 +33,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Salvelop07">
-        <img src="https://avatars.githubusercontent.com/u/187376026?v=4" width="50" />
-        <br />
-        Salvelop07
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/samuelumutiti">
         <img src="https://avatars.githubusercontent.com/u/183544930?v=4" width="50" />
         <br />
@@ -53,7 +46,6 @@
         Loadly-io
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/devsanull">
         <img src="https://avatars.githubusercontent.com/u/172035492?v=4" width="50" />
@@ -61,6 +53,7 @@
         devsanull
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/TerkumaAmos">
         <img src="https://avatars.githubusercontent.com/u/161895648?v=4" width="50" />
@@ -89,12 +82,19 @@
         H1kirro
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/muhammadusamahoyrr">
         <img src="https://avatars.githubusercontent.com/u/144557189?v=4" width="50" />
         <br />
         muhammadusamahoyrr
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/meliksahyorulmazlar">
+        <img src="https://avatars.githubusercontent.com/u/141827156?v=4" width="50" />
+        <br />
+        meliksahyorulmazlar
       </a>
     </td>
     <td width="150" align="center">

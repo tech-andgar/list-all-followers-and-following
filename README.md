@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Andres Garcia | Flutter FullStack Developer | [https://tech-andgar.me](https://https://tech-andgar.me) | Colombia | - |
 
-## Followers <kbd>123</kbd>
+## Followers <kbd>122</kbd>
 
 <table>
   <tr>
@@ -854,13 +854,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/trinhminhtriet">
-        <img src="https://avatars.githubusercontent.com/u/1650997?v=4" width="50" />
-        <br />
-        trinhminhtriet
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/pH-7">
         <img src="https://avatars.githubusercontent.com/u/1325411?v=4" width="50" />
         <br />
@@ -881,7 +874,6 @@
         josemalcher
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vminhtri">
         <img src="https://avatars.githubusercontent.com/u/706206?v=4" width="50" />
@@ -889,6 +881,7 @@
         vminhtri
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/singerdmx">
         <img src="https://avatars.githubusercontent.com/u/122956?v=4" width="50" />
@@ -902,6 +895,8 @@
         <br />
         javiereguiluz
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

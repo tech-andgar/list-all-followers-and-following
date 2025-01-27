@@ -2983,10 +2983,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Dyabel03">
+      <a href="https://github.com/Vulkh88">
         <img src="https://avatars.githubusercontent.com/u/22284075?v=4" width="50" />
         <br />
-        Dyabel03
+        Vulkh88
       </a>
     </td>
     <td width="150" align="center">

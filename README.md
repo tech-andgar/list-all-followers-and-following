@@ -3533,10 +3533,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Yogi7y">
+      <a href="https://github.com/yogi7y">
         <img src="https://avatars.githubusercontent.com/u/38221386?v=4" width="50" />
         <br />
-        Yogi7y
+        yogi7y
       </a>
     </td>
     <td width="150" align="center">

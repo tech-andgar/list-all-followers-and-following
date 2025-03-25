@@ -4051,10 +4051,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/algoritmau">
+      <a href="https://github.com/rec0mpiled">
         <img src="https://avatars.githubusercontent.com/u/49292621?v=4" width="50" />
         <br />
-        algoritmau
+        rec0mpiled
       </a>
     </td>
     <td width="150" align="center">

@@ -3242,10 +3242,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/deven98">
+      <a href="https://github.com/d3xvn">
         <img src="https://avatars.githubusercontent.com/u/26357843?v=4" width="50" />
         <br />
-        deven98
+        d3xvn
       </a>
     </td>
   </tr><tr>

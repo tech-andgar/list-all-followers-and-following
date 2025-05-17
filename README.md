@@ -946,7 +946,7 @@
   </tr>
 </table>
 
-## Following <kbd>548</kbd>
+## Following <kbd>549</kbd>
 
 <table>
   <tr>
@@ -4774,6 +4774,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Munawer-Ali">
+        <img src="https://avatars.githubusercontent.com/u/117514685?v=4" width="50" />
+        <br />
+        Munawer-Ali
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/sergioIbz">
         <img src="https://avatars.githubusercontent.com/u/118765256?v=4" width="50" />
         <br />
@@ -4794,6 +4801,7 @@
         RayVentura
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/charlescyt">
         <img src="https://avatars.githubusercontent.com/u/121948883?v=4" width="50" />
@@ -4801,7 +4809,6 @@
         charlescyt
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/cherologist">
         <img src="https://avatars.githubusercontent.com/u/127917697?v=4" width="50" />
@@ -4830,6 +4837,7 @@
         Dreb97
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lucadevv">
         <img src="https://avatars.githubusercontent.com/u/146896025?v=4" width="50" />
@@ -4837,7 +4845,6 @@
         lucadevv
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Ahmad-Nour-Haidar">
         <img src="https://avatars.githubusercontent.com/u/151964135?v=4" width="50" />
@@ -4866,6 +4873,7 @@
         the-d-velopers
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JonPWA">
         <img src="https://avatars.githubusercontent.com/u/177871276?v=4" width="50" />
@@ -4873,7 +4881,6 @@
         JonPWA
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/paper-design">
         <img src="https://avatars.githubusercontent.com/u/178361271?v=4" width="50" />
@@ -4894,8 +4901,6 @@
         <br />
         lynx-family
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

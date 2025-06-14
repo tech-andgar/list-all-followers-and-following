@@ -1423,10 +1423,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/RedBrogdon">
+      <a href="https://github.com/redbrogdon">
         <img src="https://avatars.githubusercontent.com/u/969662?v=4" width="50" />
         <br />
-        RedBrogdon
+        redbrogdon
       </a>
     </td>
     <td width="150" align="center">

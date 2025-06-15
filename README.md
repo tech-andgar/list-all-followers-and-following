@@ -972,7 +972,7 @@
   </tr>
 </table>
 
-## Following <kbd>552</kbd>
+## Following <kbd>553</kbd>
 
 <table>
   <tr>
@@ -4857,13 +4857,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/whynotmake-it">
+        <img src="https://avatars.githubusercontent.com/u/124063521?v=4" width="50" />
+        <br />
+        whynotmake-it
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/cherologist">
         <img src="https://avatars.githubusercontent.com/u/127917697?v=4" width="50" />
         <br />
         cherologist
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/MichaelDevTool">
         <img src="https://avatars.githubusercontent.com/u/137433436?v=4" width="50" />
@@ -4892,6 +4899,7 @@
         lucadevv
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Ahmad-Nour-Haidar">
         <img src="https://avatars.githubusercontent.com/u/151964135?v=4" width="50" />
@@ -4899,7 +4907,6 @@
         Ahmad-Nour-Haidar
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Front-Tips">
         <img src="https://avatars.githubusercontent.com/u/152976327?v=4" width="50" />
@@ -4928,6 +4935,7 @@
         JonPWA
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/paper-design">
         <img src="https://avatars.githubusercontent.com/u/178361271?v=4" width="50" />
@@ -4935,7 +4943,6 @@
         paper-design
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/flutterfx">
         <img src="https://avatars.githubusercontent.com/u/181395430?v=4" width="50" />
@@ -4949,8 +4956,6 @@
         <br />
         lynx-family
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

@@ -371,10 +371,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Jean-carje">
+      <a href="https://github.com/Jean-EstevezT">
         <img src="https://avatars.githubusercontent.com/u/66575135?v=4" width="50" />
         <br />
-        Jean-carje
+        Jean-EstevezT
       </a>
     </td>
   </tr><tr>

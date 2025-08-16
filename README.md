@@ -2515,10 +2515,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/vycoder">
+      <a href="https://github.com/yvhr">
         <img src="https://avatars.githubusercontent.com/u/11130314?v=4" width="50" />
         <br />
-        vycoder
+        yvhr
       </a>
     </td>
     <td width="150" align="center">

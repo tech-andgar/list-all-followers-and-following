@@ -1018,7 +1018,7 @@
   </tr>
 </table>
 
-## Following <kbd>560</kbd>
+## Following <kbd>559</kbd>
 
 <table>
   <tr>
@@ -4975,20 +4975,13 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Dreb97">
-        <img src="https://avatars.githubusercontent.com/u/142052217?v=4" width="50" />
-        <br />
-        Dreb97
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
       <a href="https://github.com/lucadevv">
         <img src="https://avatars.githubusercontent.com/u/146896025?v=4" width="50" />
         <br />
         lucadevv
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Ahmad-Nour-Haidar">
         <img src="https://avatars.githubusercontent.com/u/151964135?v=4" width="50" />
@@ -5017,7 +5010,6 @@
         the-d-velopers
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/google-gemini">
         <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="50" />
@@ -5025,6 +5017,7 @@
         google-gemini
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JonPWA">
         <img src="https://avatars.githubusercontent.com/u/177871276?v=4" width="50" />
@@ -5052,6 +5045,8 @@
         <br />
         lynx-family
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>

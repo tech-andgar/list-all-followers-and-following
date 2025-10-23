@@ -1013,7 +1013,7 @@
   </tr>
 </table>
 
-## Following <kbd>568</kbd>
+## Following <kbd>569</kbd>
 
 <table>
   <tr>
@@ -5107,6 +5107,11 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/nook-browser">
+        <img src="https://avatars.githubusercontent.com/u/224170348?v=4" width="50" />
+        <br />
+        nook-browser
+      </a>
     </td>
     <td width="150" align="center">
     </td>

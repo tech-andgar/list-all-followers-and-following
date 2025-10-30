@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Andres Garcia | Flutter FullStack Developer | [https://tech-andgar.me](https://https://tech-andgar.me) | Colombia | - |
 
-## Followers <kbd>138</kbd>
+## Followers <kbd>137</kbd>
 
 <table>
   <tr>
@@ -789,13 +789,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/guevaraStian">
-        <img src="https://avatars.githubusercontent.com/u/22348210?v=4" width="50" />
-        <br />
-        guevaraStian
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/PonchoBT">
         <img src="https://avatars.githubusercontent.com/u/22062377?v=4" width="50" />
         <br />
@@ -809,7 +802,6 @@
         Rakhimjon
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/IDouble">
         <img src="https://avatars.githubusercontent.com/u/18186995?v=4" width="50" />
@@ -817,6 +809,7 @@
         IDouble
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/varlackc">
         <img src="https://avatars.githubusercontent.com/u/18077363?v=4" width="50" />
@@ -845,7 +838,6 @@
         miladvafaeifard
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vimba333">
         <img src="https://avatars.githubusercontent.com/u/16238532?v=4" width="50" />
@@ -853,6 +845,7 @@
         vimba333
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/MahanRahmati">
         <img src="https://avatars.githubusercontent.com/u/16052180?v=4" width="50" />
@@ -881,7 +874,6 @@
         dplewis
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chanware">
         <img src="https://avatars.githubusercontent.com/u/8887437?v=4" width="50" />
@@ -889,6 +881,7 @@
         chanware
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Spiro94">
         <img src="https://avatars.githubusercontent.com/u/8346477?v=4" width="50" />
@@ -917,7 +910,6 @@
         algebric
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/idimetrix">
         <img src="https://avatars.githubusercontent.com/u/6536323?v=4" width="50" />
@@ -925,6 +917,7 @@
         idimetrix
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gamemann">
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" width="50" />
@@ -953,7 +946,6 @@
         DanielCardonaRojas
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/VinceFINET">
         <img src="https://avatars.githubusercontent.com/u/3799275?v=4" width="50" />
@@ -961,6 +953,7 @@
         VinceFINET
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/18chetanpatel">
         <img src="https://avatars.githubusercontent.com/u/3336390?v=4" width="50" />
@@ -989,7 +982,6 @@
         josemalcher
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vminhtri">
         <img src="https://avatars.githubusercontent.com/u/706206?v=4" width="50" />
@@ -997,6 +989,7 @@
         vminhtri
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/singerdmx">
         <img src="https://avatars.githubusercontent.com/u/122956?v=4" width="50" />
@@ -1010,6 +1003,8 @@
         <br />
         javiereguiluz
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

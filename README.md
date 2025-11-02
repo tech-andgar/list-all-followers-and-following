@@ -1018,7 +1018,7 @@
   </tr>
 </table>
 
-## Following <kbd>569</kbd>
+## Following <kbd>570</kbd>
 
 <table>
   <tr>
@@ -5098,6 +5098,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/withstudiocms">
+        <img src="https://avatars.githubusercontent.com/u/189287993?v=4" width="50" />
+        <br />
+        withstudiocms
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/lynx-family">
         <img src="https://avatars.githubusercontent.com/u/200909301?v=4" width="50" />
         <br />
@@ -5117,8 +5124,6 @@
         <br />
         nook-browser
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>

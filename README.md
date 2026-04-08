@@ -112,10 +112,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Antoinesha">
+      <a href="https://github.com/antoine-kam2740">
         <img src="https://avatars.githubusercontent.com/u/168101440?v=4" width="50" />
         <br />
-        Antoinesha
+        antoine-kam2740
       </a>
     </td>
     <td width="150" align="center">

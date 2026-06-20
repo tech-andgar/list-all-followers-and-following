@@ -4354,10 +4354,10 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/neozeno">
+      <a href="https://github.com/nadropper">
         <img src="https://avatars.githubusercontent.com/u/49292621?v=4" width="50" />
         <br />
-        neozeno
+        nadropper
       </a>
     </td>
   </tr><tr>

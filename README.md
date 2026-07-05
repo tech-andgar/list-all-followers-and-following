@@ -1081,7 +1081,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
   </tr>
 </table>
 
-## Following <kbd>580</kbd>
+## Following <kbd>581</kbd>
 
 <table>
   <tr>
@@ -5259,6 +5259,22 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         <br />
         andres-garcia-slalom
       </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/SantanderAI">
+        <img src="https://avatars.githubusercontent.com/u/284004589?v=4" width="50" />
+        <br />
+        SantanderAI
+      </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>

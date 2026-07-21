@@ -1086,7 +1086,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
   </tr>
 </table>
 
-## Following <kbd>581</kbd>
+## Following <kbd>582</kbd>
 
 <table>
   <tr>
@@ -5231,6 +5231,13 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/shareAI-lab">
+        <img src="https://avatars.githubusercontent.com/u/189210346?v=4" width="50" />
+        <br />
+        shareAI-lab
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/withstudiocms">
         <img src="https://avatars.githubusercontent.com/u/189287993?v=4" width="50" />
         <br />
@@ -5258,6 +5265,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         nook-browser
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/andres-garcia-slalom">
         <img src="https://avatars.githubusercontent.com/u/253088918?v=4" width="50" />
@@ -5265,15 +5273,12 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         andres-garcia-slalom
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/SantanderAI">
         <img src="https://avatars.githubusercontent.com/u/284004589?v=4" width="50" />
         <br />
         SantanderAI
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>

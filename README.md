@@ -4348,10 +4348,10 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/nadropper">
+      <a href="https://github.com/deconstructech">
         <img src="https://avatars.githubusercontent.com/u/49292621?v=4" width="50" />
         <br />
-        nadropper
+        deconstructech
       </a>
     </td>
     <td width="150" align="center">

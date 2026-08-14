@@ -1060,7 +1060,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
   </tr>
 </table>
 
-## Following <kbd>585</kbd>
+## Following <kbd>588</kbd>
 
 <table>
   <tr>
@@ -1165,13 +1165,20 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/addyosmani">
+        <img src="https://avatars.githubusercontent.com/u/110953?v=4" width="50" />
+        <br />
+        addyosmani
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/brianegan">
         <img src="https://avatars.githubusercontent.com/u/126604?v=4" width="50" />
         <br />
         brianegan
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bizz84">
         <img src="https://avatars.githubusercontent.com/u/153167?v=4" width="50" />
@@ -1200,6 +1207,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         crgwbr
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/BalusC">
         <img src="https://avatars.githubusercontent.com/u/173372?v=4" width="50" />
@@ -1207,7 +1215,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         BalusC
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/wesbos">
         <img src="https://avatars.githubusercontent.com/u/176013?v=4" width="50" />
@@ -1236,6 +1243,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Siedrix
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lbain">
         <img src="https://avatars.githubusercontent.com/u/189588?v=4" width="50" />
@@ -1243,7 +1251,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         lbain
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/twostraws">
         <img src="https://avatars.githubusercontent.com/u/190200?v=4" width="50" />
@@ -1272,6 +1279,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         mjacobus
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/styfle">
         <img src="https://avatars.githubusercontent.com/u/229881?v=4" width="50" />
@@ -1279,7 +1287,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         styfle
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/belgattitude">
         <img src="https://avatars.githubusercontent.com/u/259798?v=4" width="50" />
@@ -1308,6 +1315,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Superformula
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Riimu">
         <img src="https://avatars.githubusercontent.com/u/434422?v=4" width="50" />
@@ -1315,7 +1323,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Riimu
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/muaz-khan">
         <img src="https://avatars.githubusercontent.com/u/477092?v=4" width="50" />
@@ -1344,6 +1351,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         adambard
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sahat">
         <img src="https://avatars.githubusercontent.com/u/544954?v=4" width="50" />
@@ -1351,7 +1359,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         sahat
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kmuncie">
         <img src="https://avatars.githubusercontent.com/u/582755?v=4" width="50" />
@@ -1380,6 +1387,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         nicosantangelo
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mockturtl">
         <img src="https://avatars.githubusercontent.com/u/705804?v=4" width="50" />
@@ -1387,7 +1395,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         mockturtl
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/eric-taix">
         <img src="https://avatars.githubusercontent.com/u/712517?v=4" width="50" />
@@ -1416,6 +1423,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         spydon
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vandadnp">
         <img src="https://avatars.githubusercontent.com/u/759524?v=4" width="50" />
@@ -1423,7 +1431,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         vandadnp
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kratsg">
         <img src="https://avatars.githubusercontent.com/u/761483?v=4" width="50" />
@@ -1452,6 +1459,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         sarunw
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/MunGell">
         <img src="https://avatars.githubusercontent.com/u/812976?v=4" width="50" />
@@ -1459,7 +1467,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         MunGell
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/leonardopresoto">
         <img src="https://avatars.githubusercontent.com/u/844234?v=4" width="50" />
@@ -1488,6 +1495,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         KrauseFx
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bsutton">
         <img src="https://avatars.githubusercontent.com/u/900408?v=4" width="50" />
@@ -1495,7 +1503,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         bsutton
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/slightfoot">
         <img src="https://avatars.githubusercontent.com/u/906564?v=4" width="50" />
@@ -1524,6 +1531,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         redbrogdon
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/GantMan">
         <img src="https://avatars.githubusercontent.com/u/997157?v=4" width="50" />
@@ -1531,7 +1539,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         GantMan
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/scottt2">
         <img src="https://avatars.githubusercontent.com/u/1002266?v=4" width="50" />
@@ -1560,6 +1567,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         joeeames
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/passsy">
         <img src="https://avatars.githubusercontent.com/u/1096485?v=4" width="50" />
@@ -1567,7 +1575,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         passsy
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/delineas">
         <img src="https://avatars.githubusercontent.com/u/1122071?v=4" width="50" />
@@ -1596,6 +1603,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         miickel
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/techouse">
         <img src="https://avatars.githubusercontent.com/u/1174328?v=4" width="50" />
@@ -1603,7 +1611,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         techouse
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mhrst">
         <img src="https://avatars.githubusercontent.com/u/1178412?v=4" width="50" />
@@ -1632,6 +1639,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         kranfix
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ueman">
         <img src="https://avatars.githubusercontent.com/u/1270149?v=4" width="50" />
@@ -1639,7 +1647,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         ueman
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Solido">
         <img src="https://avatars.githubusercontent.com/u/1295961?v=4" width="50" />
@@ -1668,6 +1675,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         pH-7
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mhadaily">
         <img src="https://avatars.githubusercontent.com/u/1325451?v=4" width="50" />
@@ -1675,7 +1683,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         mhadaily
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/louislam">
         <img src="https://avatars.githubusercontent.com/u/1336778?v=4" width="50" />
@@ -1704,6 +1711,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         joshbuchea
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/alexziskind1">
         <img src="https://avatars.githubusercontent.com/u/1638579?v=4" width="50" />
@@ -1711,7 +1719,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         alexziskind1
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dericop">
         <img src="https://avatars.githubusercontent.com/u/1641578?v=4" width="50" />
@@ -1740,6 +1747,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         alxgcrz
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hgraca">
         <img src="https://avatars.githubusercontent.com/u/1809002?v=4" width="50" />
@@ -1747,7 +1755,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         hgraca
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/wasabeef">
         <img src="https://avatars.githubusercontent.com/u/1833474?v=4" width="50" />
@@ -1776,6 +1783,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         GaryQian
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mmcc007">
         <img src="https://avatars.githubusercontent.com/u/1980785?v=4" width="50" />
@@ -1783,7 +1791,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         mmcc007
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/javierbyte">
         <img src="https://avatars.githubusercontent.com/u/2009676?v=4" width="50" />
@@ -1812,6 +1819,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         swavkulinski
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Trouffman">
         <img src="https://avatars.githubusercontent.com/u/2151317?v=4" width="50" />
@@ -1819,7 +1827,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Trouffman
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nlfiedler">
         <img src="https://avatars.githubusercontent.com/u/2184927?v=4" width="50" />
@@ -1848,6 +1855,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         mezoni
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/timsneath">
         <img src="https://avatars.githubusercontent.com/u/2319867?v=4" width="50" />
@@ -1855,7 +1863,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         timsneath
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chrisvfritz">
         <img src="https://avatars.githubusercontent.com/u/2327556?v=4" width="50" />
@@ -1884,6 +1891,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         adeekshith
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/steveseguin">
         <img src="https://avatars.githubusercontent.com/u/2575698?v=4" width="50" />
@@ -1891,7 +1899,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         steveseguin
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ricardocaste">
         <img src="https://avatars.githubusercontent.com/u/2589638?v=4" width="50" />
@@ -1920,6 +1927,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         curtgrimes
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hellzerg">
         <img src="https://avatars.githubusercontent.com/u/3146835?v=4" width="50" />
@@ -1927,7 +1935,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         hellzerg
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lvaldivia">
         <img src="https://avatars.githubusercontent.com/u/3209183?v=4" width="50" />
@@ -1956,6 +1963,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         karan
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Klerith">
         <img src="https://avatars.githubusercontent.com/u/3438503?v=4" width="50" />
@@ -1963,7 +1971,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Klerith
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/frontend-3">
         <img src="https://avatars.githubusercontent.com/u/3493775?v=4" width="50" />
@@ -1992,6 +1999,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         jonsamwell
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/shentao">
         <img src="https://avatars.githubusercontent.com/u/3737591?v=4" width="50" />
@@ -1999,7 +2007,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         shentao
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ricardogottheil">
         <img src="https://avatars.githubusercontent.com/u/4078417?v=4" width="50" />
@@ -2028,6 +2035,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         elbertjose
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/juanes30">
         <img src="https://avatars.githubusercontent.com/u/4250329?v=4" width="50" />
@@ -2035,7 +2043,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         juanes30
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/FrancesCoronel">
         <img src="https://avatars.githubusercontent.com/u/4284691?v=4" width="50" />
@@ -2064,6 +2071,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         amalChandran
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/al1b">
         <img src="https://avatars.githubusercontent.com/u/4526854?v=4" width="50" />
@@ -2071,7 +2079,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         al1b
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rmanguinho">
         <img src="https://avatars.githubusercontent.com/u/4589851?v=4" width="50" />
@@ -2100,6 +2107,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         muhammedessa
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/alievk">
         <img src="https://avatars.githubusercontent.com/u/4682236?v=4" width="50" />
@@ -2107,7 +2115,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         alievk
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/diegoveloper">
         <img src="https://avatars.githubusercontent.com/u/4898256?v=4" width="50" />
@@ -2136,6 +2143,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         stablekernel
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jefraroce">
         <img src="https://avatars.githubusercontent.com/u/5109219?v=4" width="50" />
@@ -2143,7 +2151,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         jefraroce
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/make-github-pseudonymous-again">
         <img src="https://avatars.githubusercontent.com/u/5165674?v=4" width="50" />
@@ -2172,6 +2179,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         paskuvan
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/DanielCardonaRojas">
         <img src="https://avatars.githubusercontent.com/u/5472687?v=4" width="50" />
@@ -2179,7 +2187,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         DanielCardonaRojas
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AndresR173">
         <img src="https://avatars.githubusercontent.com/u/5528401?v=4" width="50" />
@@ -2208,6 +2215,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         pichillilorenzo
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rappasoft">
         <img src="https://avatars.githubusercontent.com/u/6026504?v=4" width="50" />
@@ -2215,7 +2223,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         rappasoft
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lubkoKuzenko">
         <img src="https://avatars.githubusercontent.com/u/6137495?v=4" width="50" />
@@ -2244,6 +2251,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         loydkim
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/erluxman">
         <img src="https://avatars.githubusercontent.com/u/6260014?v=4" width="50" />
@@ -2251,7 +2259,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         erluxman
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lohanidamodar">
         <img src="https://avatars.githubusercontent.com/u/6360216?v=4" width="50" />
@@ -2280,6 +2287,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         renancaraujo
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/luisserranopro">
         <img src="https://avatars.githubusercontent.com/u/6720634?v=4" width="50" />
@@ -2287,7 +2295,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         luisserranopro
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/stemmlerjs">
         <img src="https://avatars.githubusercontent.com/u/6892666?v=4" width="50" />
@@ -2316,6 +2323,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         cristinafsanz
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ritaly">
         <img src="https://avatars.githubusercontent.com/u/7140255?v=4" width="50" />
@@ -2323,7 +2331,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         ritaly
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/arnaudelub">
         <img src="https://avatars.githubusercontent.com/u/7148294?v=4" width="50" />
@@ -2352,6 +2359,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         realvjy
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/wadefagen">
         <img src="https://avatars.githubusercontent.com/u/7505610?v=4" width="50" />
@@ -2359,7 +2367,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         wadefagen
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/caiangums">
         <img src="https://avatars.githubusercontent.com/u/7551787?v=4" width="50" />
@@ -2388,6 +2395,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Crdzbird
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/benawad">
         <img src="https://avatars.githubusercontent.com/u/7872329?v=4" width="50" />
@@ -2395,7 +2403,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         benawad
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/md-weber">
         <img src="https://avatars.githubusercontent.com/u/8026644?v=4" width="50" />
@@ -2424,6 +2431,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Spiro94
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/buckyroberts">
         <img src="https://avatars.githubusercontent.com/u/8547538?v=4" width="50" />
@@ -2431,7 +2439,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         buckyroberts
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rizonesoft">
         <img src="https://avatars.githubusercontent.com/u/8640728?v=4" width="50" />
@@ -2460,6 +2467,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         chanware
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/martincrb">
         <img src="https://avatars.githubusercontent.com/u/8975494?v=4" width="50" />
@@ -2467,7 +2475,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         martincrb
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/antonputra">
         <img src="https://avatars.githubusercontent.com/u/9362325?v=4" width="50" />
@@ -2496,6 +2503,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         brienna
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sarbagyastha">
         <img src="https://avatars.githubusercontent.com/u/9782008?v=4" width="50" />
@@ -2503,7 +2511,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         sarbagyastha
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dplewis">
         <img src="https://avatars.githubusercontent.com/u/9830365?v=4" width="50" />
@@ -2532,6 +2539,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         mitchellkrogza
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/thosakwe">
         <img src="https://avatars.githubusercontent.com/u/9996860?v=4" width="50" />
@@ -2539,7 +2547,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         thosakwe
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/RafaelBarbosatec">
         <img src="https://avatars.githubusercontent.com/u/10039275?v=4" width="50" />
@@ -2568,6 +2575,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Adrianns
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/apple">
         <img src="https://avatars.githubusercontent.com/u/10639145?v=4" width="50" />
@@ -2575,7 +2583,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         apple
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/colombia-dev">
         <img src="https://avatars.githubusercontent.com/u/10751547?v=4" width="50" />
@@ -2604,6 +2611,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         ldasilva-net
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yvhr">
         <img src="https://avatars.githubusercontent.com/u/11130314?v=4" width="50" />
@@ -2611,7 +2619,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         yvhr
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/objective-see">
         <img src="https://avatars.githubusercontent.com/u/11327812?v=4" width="50" />
@@ -2640,6 +2647,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         smarlhens
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/eseidelGoogle">
         <img src="https://avatars.githubusercontent.com/u/11857803?v=4" width="50" />
@@ -2647,7 +2655,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         eseidelGoogle
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/GoltVik">
         <img src="https://avatars.githubusercontent.com/u/11902246?v=4" width="50" />
@@ -2676,6 +2683,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         iampawan
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rodrigobastosv">
         <img src="https://avatars.githubusercontent.com/u/12686272?v=4" width="50" />
@@ -2683,7 +2691,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         rodrigobastosv
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/OCSInventory-NG">
         <img src="https://avatars.githubusercontent.com/u/12696216?v=4" width="50" />
@@ -2712,6 +2719,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         AveYo
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/javico2609">
         <img src="https://avatars.githubusercontent.com/u/12940555?v=4" width="50" />
@@ -2719,7 +2727,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         javico2609
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/shadyaziza">
         <img src="https://avatars.githubusercontent.com/u/12971971?v=4" width="50" />
@@ -2748,6 +2755,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         EduOrtegaDEV
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Hensell">
         <img src="https://avatars.githubusercontent.com/u/13171627?v=4" width="50" />
@@ -2755,7 +2763,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Hensell
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nandorojo">
         <img src="https://avatars.githubusercontent.com/u/13172299?v=4" width="50" />
@@ -2784,6 +2791,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         henryjeff
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/marcglasberg">
         <img src="https://avatars.githubusercontent.com/u/13332110?v=4" width="50" />
@@ -2791,7 +2799,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         marcglasberg
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/raphaelmans">
         <img src="https://avatars.githubusercontent.com/u/13348815?v=4" width="50" />
@@ -2820,6 +2827,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         fazt
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/roughike">
         <img src="https://avatars.githubusercontent.com/u/13744304?v=4" width="50" />
@@ -2827,7 +2835,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         roughike
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/apgapg">
         <img src="https://avatars.githubusercontent.com/u/13887407?v=4" width="50" />
@@ -2856,6 +2863,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         pinkeshdarji
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mbcorona">
         <img src="https://avatars.githubusercontent.com/u/14170258?v=4" width="50" />
@@ -2863,7 +2871,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         mbcorona
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/TesteurManiak">
         <img src="https://avatars.githubusercontent.com/u/14369698?v=4" width="50" />
@@ -2892,6 +2899,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Oliinyk-Volodymyr
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ayalma">
         <img src="https://avatars.githubusercontent.com/u/15701316?v=4" width="50" />
@@ -2899,7 +2907,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         ayalma
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/leifermendez">
         <img src="https://avatars.githubusercontent.com/u/15802366?v=4" width="50" />
@@ -2928,6 +2935,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         wolfenrain
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/MahanRahmati">
         <img src="https://avatars.githubusercontent.com/u/16052180?v=4" width="50" />
@@ -2935,7 +2943,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         MahanRahmati
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Correia-jpv">
         <img src="https://avatars.githubusercontent.com/u/16155781?v=4" width="50" />
@@ -2964,6 +2971,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         diawi
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/davidsdearaujo">
         <img src="https://avatars.githubusercontent.com/u/16373553?v=4" width="50" />
@@ -2971,7 +2979,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         davidsdearaujo
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/asyncapi">
         <img src="https://avatars.githubusercontent.com/u/16401334?v=4" width="50" />
@@ -3000,6 +3007,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         SimpleMobileTools
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mariocervera">
         <img src="https://avatars.githubusercontent.com/u/16478856?v=4" width="50" />
@@ -3007,7 +3015,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         mariocervera
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/debasmitasarkar">
         <img src="https://avatars.githubusercontent.com/u/16499313?v=4" width="50" />
@@ -3036,6 +3043,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         snippetkid
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/zaldih">
         <img src="https://avatars.githubusercontent.com/u/16844185?v=4" width="50" />
@@ -3043,7 +3051,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         zaldih
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/miladvafaeifard">
         <img src="https://avatars.githubusercontent.com/u/16865649?v=4" width="50" />
@@ -3072,6 +3079,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         EleftheriaBatsou
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/david-legend">
         <img src="https://avatars.githubusercontent.com/u/17256271?v=4" width="50" />
@@ -3079,7 +3087,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         david-legend
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/afgprogrammer">
         <img src="https://avatars.githubusercontent.com/u/17293422?v=4" width="50" />
@@ -3108,6 +3115,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         nhancv
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/simoales">
         <img src="https://avatars.githubusercontent.com/u/17809961?v=4" width="50" />
@@ -3115,7 +3123,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         simoales
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Josheriff">
         <img src="https://avatars.githubusercontent.com/u/18023518?v=4" width="50" />
@@ -3144,6 +3151,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         ResoDev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/andresochoas">
         <img src="https://avatars.githubusercontent.com/u/18619074?v=4" width="50" />
@@ -3151,7 +3159,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         andresochoas
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jooola">
         <img src="https://avatars.githubusercontent.com/u/19195485?v=4" width="50" />
@@ -3180,6 +3187,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         szotp
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rayliverified">
         <img src="https://avatars.githubusercontent.com/u/19896174?v=4" width="50" />
@@ -3187,7 +3195,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         rayliverified
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jamesblasco">
         <img src="https://avatars.githubusercontent.com/u/19904063?v=4" width="50" />
@@ -3216,6 +3223,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         wendux
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/BirjuVachhani">
         <img src="https://avatars.githubusercontent.com/u/20423471?v=4" width="50" />
@@ -3223,7 +3231,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         BirjuVachhani
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ConProgramming">
         <img src="https://avatars.githubusercontent.com/u/20548516?v=4" width="50" />
@@ -3252,6 +3259,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Levi-Lesches
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/neryad">
         <img src="https://avatars.githubusercontent.com/u/20806101?v=4" width="50" />
@@ -3259,7 +3267,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         neryad
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/md-siam">
         <img src="https://avatars.githubusercontent.com/u/21225918?v=4" width="50" />
@@ -3288,6 +3295,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Vulkh88
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/objectbox">
         <img src="https://avatars.githubusercontent.com/u/22327943?v=4" width="50" />
@@ -3295,7 +3303,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         objectbox
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gasparsuarez">
         <img src="https://avatars.githubusercontent.com/u/22453545?v=4" width="50" />
@@ -3324,6 +3331,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         atomjar
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kamilmysliwiec">
         <img src="https://avatars.githubusercontent.com/u/23244943?v=4" width="50" />
@@ -3331,7 +3339,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         kamilmysliwiec
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/juan-campuzano">
         <img src="https://avatars.githubusercontent.com/u/23410488?v=4" width="50" />
@@ -3360,6 +3367,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         pochecho
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JideGuru">
         <img src="https://avatars.githubusercontent.com/u/24323581?v=4" width="50" />
@@ -3367,7 +3375,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         JideGuru
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/salihgueler">
         <img src="https://avatars.githubusercontent.com/u/24432752?v=4" width="50" />
@@ -3396,6 +3403,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Hapkiduki
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dnys1">
         <img src="https://avatars.githubusercontent.com/u/24740863?v=4" width="50" />
@@ -3403,7 +3411,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         dnys1
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/technoquo">
         <img src="https://avatars.githubusercontent.com/u/25038159?v=4" width="50" />
@@ -3432,6 +3439,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         renovate-bot
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/DevonCrawford">
         <img src="https://avatars.githubusercontent.com/u/25334129?v=4" width="50" />
@@ -3439,7 +3447,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         DevonCrawford
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/xsahil03x">
         <img src="https://avatars.githubusercontent.com/u/25670178?v=4" width="50" />
@@ -3468,6 +3475,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         RobertBrunhage
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/d3xvn">
         <img src="https://avatars.githubusercontent.com/u/26357843?v=4" width="50" />
@@ -3475,7 +3483,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         d3xvn
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/acamue">
         <img src="https://avatars.githubusercontent.com/u/26366692?v=4" width="50" />
@@ -3504,6 +3511,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         deafjava
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ofaaoficial">
         <img src="https://avatars.githubusercontent.com/u/26628689?v=4" width="50" />
@@ -3511,7 +3519,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         ofaaoficial
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/victormanuelfrancodev">
         <img src="https://avatars.githubusercontent.com/u/27299953?v=4" width="50" />
@@ -3540,6 +3547,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         brianou7
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hukusuke1007">
         <img src="https://avatars.githubusercontent.com/u/29278033?v=4" width="50" />
@@ -3547,7 +3555,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         hukusuke1007
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lydiahallie">
         <img src="https://avatars.githubusercontent.com/u/29451794?v=4" width="50" />
@@ -3576,6 +3583,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         ufukhawk
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/alex-melnyk">
         <img src="https://avatars.githubusercontent.com/u/30177329?v=4" width="50" />
@@ -3583,7 +3591,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         alex-melnyk
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ksokolovskyi">
         <img src="https://avatars.githubusercontent.com/u/30288967?v=4" width="50" />
@@ -3612,6 +3619,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         julietM
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AlfonsoBT">
         <img src="https://avatars.githubusercontent.com/u/30879288?v=4" width="50" />
@@ -3619,7 +3627,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         AlfonsoBT
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/happyharis">
         <img src="https://avatars.githubusercontent.com/u/31005114?v=4" width="50" />
@@ -3648,6 +3655,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         ketanchoyal
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jakesq">
         <img src="https://avatars.githubusercontent.com/u/31568686?v=4" width="50" />
@@ -3655,7 +3663,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         jakesq
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/wiltonribeiro">
         <img src="https://avatars.githubusercontent.com/u/31755725?v=4" width="50" />
@@ -3684,6 +3691,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         renuvkelkar
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ShadyBoukhary">
         <img src="https://avatars.githubusercontent.com/u/32588376?v=4" width="50" />
@@ -3691,7 +3699,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         ShadyBoukhary
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/monster555">
         <img src="https://avatars.githubusercontent.com/u/32662133?v=4" width="50" />
@@ -3720,6 +3727,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         aeyrium
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/leancodepl">
         <img src="https://avatars.githubusercontent.com/u/33636762?v=4" width="50" />
@@ -3727,7 +3735,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         leancodepl
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ebrahimmansur">
         <img src="https://avatars.githubusercontent.com/u/34646327?v=4" width="50" />
@@ -3756,6 +3763,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         juanguren
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ianramzy">
         <img src="https://avatars.githubusercontent.com/u/34945837?v=4" width="50" />
@@ -3763,7 +3771,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         ianramzy
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/user97116">
         <img src="https://avatars.githubusercontent.com/u/35018901?v=4" width="50" />
@@ -3792,6 +3799,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         nothingismagick
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Fabrice-Fabio">
         <img src="https://avatars.githubusercontent.com/u/35635121?v=4" width="50" />
@@ -3799,7 +3807,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Fabrice-Fabio
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jonataslaw">
         <img src="https://avatars.githubusercontent.com/u/35742643?v=4" width="50" />
@@ -3828,6 +3835,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         TheWCKD
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/TheAlphamerc">
         <img src="https://avatars.githubusercontent.com/u/37103237?v=4" width="50" />
@@ -3835,7 +3843,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         TheAlphamerc
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/7andres">
         <img src="https://avatars.githubusercontent.com/u/37129888?v=4" width="50" />
@@ -3864,6 +3871,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Picorete
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nstosic">
         <img src="https://avatars.githubusercontent.com/u/38001211?v=4" width="50" />
@@ -3871,7 +3879,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         nstosic
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yogi7y">
         <img src="https://avatars.githubusercontent.com/u/38221386?v=4" width="50" />
@@ -3900,6 +3907,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         renovatebot
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hunar4321">
         <img src="https://avatars.githubusercontent.com/u/39065447?v=4" width="50" />
@@ -3907,7 +3915,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         hunar4321
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bluefireteam">
         <img src="https://avatars.githubusercontent.com/u/39142368?v=4" width="50" />
@@ -3936,6 +3943,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         WebDevSimplified
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/avdosev">
         <img src="https://avatars.githubusercontent.com/u/39769345?v=4" width="50" />
@@ -3943,7 +3951,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         avdosev
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dhuinda">
         <img src="https://avatars.githubusercontent.com/u/39781618?v=4" width="50" />
@@ -3972,6 +3979,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         rafaelsetragni
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rei-codes">
         <img src="https://avatars.githubusercontent.com/u/40313719?v=4" width="50" />
@@ -3979,7 +3987,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         rei-codes
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/laureimei">
         <img src="https://avatars.githubusercontent.com/u/40408390?v=4" width="50" />
@@ -4008,6 +4015,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         salbisser105
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mehedidew">
         <img src="https://avatars.githubusercontent.com/u/41550289?v=4" width="50" />
@@ -4015,7 +4023,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         mehedidew
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/flutter-es">
         <img src="https://avatars.githubusercontent.com/u/41843975?v=4" width="50" />
@@ -4044,6 +4051,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         dunkbing
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/components-ai">
         <img src="https://avatars.githubusercontent.com/u/42213641?v=4" width="50" />
@@ -4051,7 +4059,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         components-ai
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mrverdant13">
         <img src="https://avatars.githubusercontent.com/u/42245236?v=4" width="50" />
@@ -4080,6 +4087,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         mrrhak
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JeanmartinPV">
         <img src="https://avatars.githubusercontent.com/u/42988089?v=4" width="50" />
@@ -4087,7 +4095,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         JeanmartinPV
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bagisto">
         <img src="https://avatars.githubusercontent.com/u/43133047?v=4" width="50" />
@@ -4116,6 +4123,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         bryanjorgeflores
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/oalinoor11">
         <img src="https://avatars.githubusercontent.com/u/44731021?v=4" width="50" />
@@ -4123,7 +4131,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         oalinoor11
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JohannesMilke">
         <img src="https://avatars.githubusercontent.com/u/44921899?v=4" width="50" />
@@ -4152,6 +4159,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         AugSync
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Gene-Dana">
         <img src="https://avatars.githubusercontent.com/u/45580241?v=4" width="50" />
@@ -4159,7 +4167,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Gene-Dana
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/funwithflutter">
         <img src="https://avatars.githubusercontent.com/u/45597490?v=4" width="50" />
@@ -4188,6 +4195,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         bdlukaa
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lutang123">
         <img src="https://avatars.githubusercontent.com/u/45894161?v=4" width="50" />
@@ -4195,7 +4203,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         lutang123
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/manuelduarte077">
         <img src="https://avatars.githubusercontent.com/u/46093689?v=4" width="50" />
@@ -4224,6 +4231,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         yeasin50
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/getappmap">
         <img src="https://avatars.githubusercontent.com/u/46610017?v=4" width="50" />
@@ -4231,7 +4239,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         getappmap
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/axiftaj">
         <img src="https://avatars.githubusercontent.com/u/47206155?v=4" width="50" />
@@ -4260,6 +4267,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         shashiben
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/pktintali">
         <img src="https://avatars.githubusercontent.com/u/47480465?v=4" width="50" />
@@ -4267,7 +4275,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         pktintali
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/williamsilva-98">
         <img src="https://avatars.githubusercontent.com/u/47498609?v=4" width="50" />
@@ -4296,6 +4303,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         shivaniaakanksha
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/andrews1022">
         <img src="https://avatars.githubusercontent.com/u/47801024?v=4" width="50" />
@@ -4303,7 +4311,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         andrews1022
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bmw-tech">
         <img src="https://avatars.githubusercontent.com/u/47873067?v=4" width="50" />
@@ -4332,6 +4339,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         SergioCamachoInnLab
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/TahaTesser">
         <img src="https://avatars.githubusercontent.com/u/48603081?v=4" width="50" />
@@ -4339,7 +4347,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         TahaTesser
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/axel-op">
         <img src="https://avatars.githubusercontent.com/u/49279289?v=4" width="50" />
@@ -4368,6 +4375,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         JordyHers
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bancolombia">
         <img src="https://avatars.githubusercontent.com/u/50145278?v=4" width="50" />
@@ -4375,7 +4383,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         bancolombia
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/champ96k">
         <img src="https://avatars.githubusercontent.com/u/50237575?v=4" width="50" />
@@ -4404,6 +4411,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         protomaps
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/2Math0">
         <img src="https://avatars.githubusercontent.com/u/50797015?v=4" width="50" />
@@ -4411,7 +4419,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         2Math0
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/cscoderr">
         <img src="https://avatars.githubusercontent.com/u/51103897?v=4" width="50" />
@@ -4440,6 +4447,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         AbhishekDoshi26
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/la-haus">
         <img src="https://avatars.githubusercontent.com/u/53319354?v=4" width="50" />
@@ -4447,7 +4455,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         la-haus
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/antoniosarosi">
         <img src="https://avatars.githubusercontent.com/u/54243067?v=4" width="50" />
@@ -4476,6 +4483,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         absagarcia
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Jerome-Saltmarsh">
         <img src="https://avatars.githubusercontent.com/u/56405989?v=4" width="50" />
@@ -4483,7 +4491,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Jerome-Saltmarsh
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/brocodev">
         <img src="https://avatars.githubusercontent.com/u/56772655?v=4" width="50" />
@@ -4512,6 +4519,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         lakshydeep-14
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/adrianflutur">
         <img src="https://avatars.githubusercontent.com/u/58974561?v=4" width="50" />
@@ -4519,7 +4527,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         adrianflutur
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/flyerhq">
         <img src="https://avatars.githubusercontent.com/u/59206044?v=4" width="50" />
@@ -4548,6 +4555,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         nank1ro
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/tadaspetra">
         <img src="https://avatars.githubusercontent.com/u/60107328?v=4" width="50" />
@@ -4555,7 +4563,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         tadaspetra
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/coollabsio">
         <img src="https://avatars.githubusercontent.com/u/60715044?v=4" width="50" />
@@ -4584,6 +4591,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         KianBrose
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/flutternoob">
         <img src="https://avatars.githubusercontent.com/u/62204476?v=4" width="50" />
@@ -4591,7 +4599,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         flutternoob
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hawkkiller">
         <img src="https://avatars.githubusercontent.com/u/62852417?v=4" width="50" />
@@ -4620,6 +4627,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         devopsean
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/priiyaanjaalii0611">
         <img src="https://avatars.githubusercontent.com/u/64598746?v=4" width="50" />
@@ -4627,7 +4635,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         priiyaanjaalii0611
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Tomic-Riedel">
         <img src="https://avatars.githubusercontent.com/u/64801984?v=4" width="50" />
@@ -4656,6 +4663,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         syedahmedusman2
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/proteanstudio">
         <img src="https://avatars.githubusercontent.com/u/67486314?v=4" width="50" />
@@ -4663,7 +4671,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         proteanstudio
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rcjuancarlosuwu">
         <img src="https://avatars.githubusercontent.com/u/67658540?v=4" width="50" />
@@ -4692,6 +4699,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Vikkycode
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/winsortf">
         <img src="https://avatars.githubusercontent.com/u/68762948?v=4" width="50" />
@@ -4699,7 +4707,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         winsortf
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/RicharC293">
         <img src="https://avatars.githubusercontent.com/u/69091719?v=4" width="50" />
@@ -4728,6 +4735,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         z0ccc
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Flutter-Bounty-Hunters">
         <img src="https://avatars.githubusercontent.com/u/70979896?v=4" width="50" />
@@ -4735,12 +4743,18 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Flutter-Bounty-Hunters
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/peter-kimanzi">
         <img src="https://avatars.githubusercontent.com/u/71552773?v=4" width="50" />
         <br />
         peter-kimanzi
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/CathPag">
+        <img src="https://avatars.githubusercontent.com/u/74001907?v=4" width="50" />
+        <br />
+        CathPag
       </a>
     </td>
     <td width="150" align="center">
@@ -4757,6 +4771,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         VeryGoodOpenSource
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/harmonoid">
         <img src="https://avatars.githubusercontent.com/u/75374037?v=4" width="50" />
@@ -4771,7 +4786,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         carolinaportillo
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/maplibre">
         <img src="https://avatars.githubusercontent.com/u/75709127?v=4" width="50" />
@@ -4793,6 +4807,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         anthropics
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nategentile">
         <img src="https://avatars.githubusercontent.com/u/77337765?v=4" width="50" />
@@ -4807,7 +4822,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Robert-Brunhage-Organization
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/FlutterMedellinMeetup">
         <img src="https://avatars.githubusercontent.com/u/80115463?v=4" width="50" />
@@ -4829,6 +4843,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Flutter-Explained
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Alvish0407">
         <img src="https://avatars.githubusercontent.com/u/80829856?v=4" width="50" />
@@ -4843,7 +4858,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         prosmaw
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chouhan-rahul">
         <img src="https://avatars.githubusercontent.com/u/82075108?v=4" width="50" />
@@ -4865,6 +4879,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         total-order
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hydev777">
         <img src="https://avatars.githubusercontent.com/u/84458390?v=4" width="50" />
@@ -4879,7 +4894,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         AladdineDev
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/slashapi">
         <img src="https://avatars.githubusercontent.com/u/85959061?v=4" width="50" />
@@ -4901,6 +4915,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Sign-Speak-Development
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bidhan11">
         <img src="https://avatars.githubusercontent.com/u/86898646?v=4" width="50" />
@@ -4915,7 +4930,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         flutterdevrelgists
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ashndev">
         <img src="https://avatars.githubusercontent.com/u/87834445?v=4" width="50" />
@@ -4937,6 +4951,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         CodePush-dev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AmirBayat0">
         <img src="https://avatars.githubusercontent.com/u/91388754?v=4" width="50" />
@@ -4951,7 +4966,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         lamnhan066
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dawnenakey">
         <img src="https://avatars.githubusercontent.com/u/91962932?v=4" width="50" />
@@ -4973,6 +4987,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         tbuczkowski
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Michprosal003">
         <img src="https://avatars.githubusercontent.com/u/95501615?v=4" width="50" />
@@ -4987,7 +5002,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         avalanche-tm
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JuanFGQ">
         <img src="https://avatars.githubusercontent.com/u/97085649?v=4" width="50" />
@@ -5009,6 +5023,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         flet-dev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/githyperplexed">
         <img src="https://avatars.githubusercontent.com/u/105084274?v=4" width="50" />
@@ -5023,7 +5038,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         StudioGalt
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/emeleonufavour">
         <img src="https://avatars.githubusercontent.com/u/106310497?v=4" width="50" />
@@ -5045,6 +5059,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         mark-when
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Deafveloper">
         <img src="https://avatars.githubusercontent.com/u/108372508?v=4" width="50" />
@@ -5059,7 +5074,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         Dev-Salem
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/upscayl">
         <img src="https://avatars.githubusercontent.com/u/112148288?v=4" width="50" />
@@ -5081,6 +5095,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         arguellesdev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Munawer-Ali">
         <img src="https://avatars.githubusercontent.com/u/117514685?v=4" width="50" />
@@ -5095,7 +5110,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         sergioIbz
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/elysiajs">
         <img src="https://avatars.githubusercontent.com/u/119793569?v=4" width="50" />
@@ -5117,6 +5131,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         charlescyt
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/versatiles-org">
         <img src="https://avatars.githubusercontent.com/u/123511247?v=4" width="50" />
@@ -5131,7 +5146,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         whynotmake-it
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/cherologist">
         <img src="https://avatars.githubusercontent.com/u/127917697?v=4" width="50" />
@@ -5153,6 +5167,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         MichaelDevTool
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/celenaaponce">
         <img src="https://avatars.githubusercontent.com/u/138083273?v=4" width="50" />
@@ -5167,7 +5182,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         lucadevv
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Ahmad-Nour-Haidar">
         <img src="https://avatars.githubusercontent.com/u/151964135?v=4" width="50" />
@@ -5189,6 +5203,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         version-fox
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/the-d-velopers">
         <img src="https://avatars.githubusercontent.com/u/155604362?v=4" width="50" />
@@ -5203,7 +5218,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         google-gemini
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JonPWA">
         <img src="https://avatars.githubusercontent.com/u/177871276?v=4" width="50" />
@@ -5225,6 +5239,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         flutterfx
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/shareAI-lab">
         <img src="https://avatars.githubusercontent.com/u/189210346?v=4" width="50" />
@@ -5239,7 +5254,6 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         withstudiocms
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lynx-family">
         <img src="https://avatars.githubusercontent.com/u/200909301?v=4" width="50" />
@@ -5261,6 +5275,7 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
         nook-browser
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/andres-garcia-slalom">
         <img src="https://avatars.githubusercontent.com/u/253088918?v=4" width="50" />
@@ -5269,11 +5284,22 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/merge-forward">
+        <img src="https://avatars.githubusercontent.com/u/266391010?v=4" width="50" />
+        <br />
+        merge-forward
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/SantanderAI">
         <img src="https://avatars.githubusercontent.com/u/284004589?v=4" width="50" />
         <br />
         SantanderAI
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>

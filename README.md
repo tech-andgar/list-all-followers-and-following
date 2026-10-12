@@ -4518,10 +4518,10 @@ Co-Founder @signlanguagetech  | [https://tech-andgar.me](https://https://tech-an
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Jerome-Saltmarsh">
+      <a href="https://github.com/jerome-saltmarsh">
         <img src="https://avatars.githubusercontent.com/u/56405989?v=4" width="50" />
         <br />
-        Jerome-Saltmarsh
+        jerome-saltmarsh
       </a>
     </td>
     <td width="150" align="center">
